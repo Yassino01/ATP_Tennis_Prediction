@@ -1,0 +1,8 @@
+
+python>=3.6
+urllib
+pandas
+numpy
+matplotlib
+sklearn
+keras
